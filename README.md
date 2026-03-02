@@ -74,25 +74,43 @@ Clinic_Management_System/
 ```
 ---
 
-## ⚙ Installation
+##  Installation (Vite + React)
 
-### 1. Clone the repository
+Follow these steps to run the project locally:
+
+### 1️ Navigate to Project Folder
+
+Make sure you are inside the correct project directory:
 ```
-git clone https://github.com/your-username/Clinic_Management_System.git  
-cd Clinic_Management_System  
+cd my-app
 ```
-### 2. Install dependencies
+---
+
+### 2️ Install Dependencies
 ```
-npm install  
+npm install
 ```
-### 3. Run the application
+---
+
+### 3️ Start Development Server
 ```
-npm start  
+npm run dev
 ```
-The application will run at:  
-http://localhost:3000
+---
+
+### 4️ Open in Browser
+
+If port 5173 is available:
+
+http://localhost:5173/
+
+If port 5173 is already in use, Vite will automatically use another port like:
+
+http://localhost:5174/
 
 ---
+
+
 
 ##  Usage
 
