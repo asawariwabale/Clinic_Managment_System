@@ -1,4 +1,4 @@
-# 🏥 Clinic Management System
+# Clinic Management System
 
 Clinic Management System is a frontend web application developed using **React.js**.  
 The application provides a clean and responsive interface for clinic-related pages such as Home, Doctors, About, Services, and Contact.
@@ -7,7 +7,7 @@ This project demonstrates modern React concepts like routing, lazy loading, susp
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
@@ -18,7 +18,7 @@ This project demonstrates modern React concepts like routing, lazy loading, susp
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Client-side routing using React Router
 - Multiple pages (Home, Doctors, About, Services, Contact)
@@ -31,7 +31,7 @@ This project demonstrates modern React concepts like routing, lazy loading, susp
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - React.js
@@ -48,7 +48,7 @@ This project demonstrates modern React concepts like routing, lazy loading, susp
 ---
 
 ## 📁 Project Structure
-
+```
 Clinic_Management_System/
 │
 ├── public/
@@ -71,30 +71,30 @@ Clinic_Management_System/
 │
 ├── package.json
 └── README.md
-
+```
 ---
 
 ## ⚙ Installation
 
 ### 1. Clone the repository
-
+```
 git clone https://github.com/your-username/Clinic_Management_System.git  
 cd Clinic_Management_System  
-
+```
 ### 2. Install dependencies
-
+```
 npm install  
-
+```
 ### 3. Run the application
-
+```
 npm start  
-
+```
 The application will run at:  
 http://localhost:3000
 
 ---
 
-## ▶ Usage
+##  Usage
 
 1. Open the application in your browser.
 2. Use the navigation bar to move between pages.
